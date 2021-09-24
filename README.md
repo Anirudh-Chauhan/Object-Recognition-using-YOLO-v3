@@ -1,7 +1,7 @@
 # Object-Recognition-using-YOLO-v3
 
 ### Here is a demo of the web deployment of this project, working on my local host.
-![DEMO](https://user-images.githubusercontent.com/48491447/134740774-e9d17b71-4755-4994-957f-c7197818e396.mp4)
+![DEMO](https://user-images.githubusercontent.com/48491447/134743533-9da802a9-7dbe-4ea4-9c64-30e0181dd500.gif)
 
 
 # Summary
