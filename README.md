@@ -3,6 +3,11 @@
 ### Here is a demo of the web deployment of this project, working on my local host.
 ![DEMO](https://user-images.githubusercontent.com/48491447/134743533-9da802a9-7dbe-4ea4-9c64-30e0181dd500.gif)
 
+# Team :
+
+- [Anirudh Singh Chauhan](https://www.linkedin.com/in/anirudh-singh-chauhan/)
+- [Muskan Sanghai](https://www.linkedin.com/in/muskan-sanghai/)
+- [Shantanu Gupta](https://www.linkedin.com/in/shantanu-gupta-b34689170/)
 
 # Summary
 Object detection is one of the classical problems in computer vision where you work to recognize what objects are inside a given image and also where they are in the image. The problem of object detection is more complex than classification. 
